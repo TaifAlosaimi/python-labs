@@ -1,6 +1,6 @@
 name = "princess Taif"
 cart = []
-balance = 20
+balance = 23
 
 if name:
     print("name has a value")
